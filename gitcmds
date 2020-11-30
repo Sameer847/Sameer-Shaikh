@@ -8,3 +8,8 @@ git push -u origin main
 git remote add origin https://github.com/Sameer847/Sameer-Shaikh.git
 git branch -M main
 git push -u origin main
+
+//after making changes
+git add .
+git commit -m "some comment"
+git push -u origin master
